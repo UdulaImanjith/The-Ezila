@@ -22,9 +22,8 @@ Complete guide on deploying @ezilaotherbot's clone on Heroku.
 
 ☆ Video by [SLSADEW BRO](https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w) ☆
 
-
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/Ezila.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/Ezila)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
