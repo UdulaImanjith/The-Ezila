@@ -63,19 +63,19 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Dofini
-I'm a Powerful group manager bot With Cool Modules. Made by [Pawan Theekshana• 🇱🇰](t.me/pawan_Theekshana)
+Hello there, I'm Ezila
+I'm a Powerful group manager bot With Cool Modules. Made by [𝙎𝙖𝙙𝙚𝙬 𝙅𝙨𝙠</σϝϝʅιɳҽ](t.me/darkridersslk)
 Hit /help to find my list of available commands
  
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/DofiniUpdates"),
-        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/DifiniSupport_Official"),
+        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/Ezila_Updates"),
+        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/Ezila_Support"),
     ],
     [
-        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/slhitbotofficial"),
+        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/SDBOTs_inifinity"),
         
     ],
     [
@@ -83,14 +83,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Dofini to your group ➕", url="http://t.me/DofiniDevBot?startgroup=true"
+            text="➕ Add Dofini to your group ➕", url="http://t.me/EZILAinifinitybot?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = 'https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg'
+ANKIVECTOR_IMG = 'https://telegra.ph/file/05525c2d5b3909fbec092.jpg'
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/18e20df18b17ce5b3c9dc.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/05525c2d5b3909fbec092.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -105,7 +105,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Pawan Theekshana](t.me/Pawan_Theekshana)"""
+Support them  [𝙎𝙖𝙙𝙚𝙬 𝙅𝙨𝙠</σϝϝʅιɳҽ](t.me/darkridersslk)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -367,7 +367,7 @@ def AnkiVector_about_callback(update, context):
     if query.data == "aboutmanu_":
         query.message.edit_text(
             text=f"* Hi There  The name's {dispatcher.bot.first_name} \n\nAs  You I'm a next generational group management bot developed by Anki Vector Updates.* "
-            f"\n\n Join [AnkiVectorUpdates](https://t.me/ankivectorUpdates) To Keep Yourself Updated About {dispatcher.bot.first_name}"
+            f"\n\n Join [Ezila Updates](https://t.me/Ezila_Updates) To Keep Yourself Updated About {dispatcher.bot.first_name}"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features"
             f"\n\nYou Can Know More About Me By Clicking The Below Buttons",
@@ -404,7 +404,7 @@ def AnkiVector_about_callback(update, context):
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
             f"\nIf You Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Anki Vectr Support](https://t.me/AnkiSupport_Official).\n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Ezila Support](https://t.me/Ezila_Support).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -425,8 +425,8 @@ def AnkiVector_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*{dispatcher.bot.first_name} Is the redisigned version of Daisy and Naruto for the best performance.*"
-            f"\n\nBased on [Anki Vector Brother](https://t.me/TheVectorBrotherbot)."
-            f"\n\n{dispatcher.bot.first_name}'s source code was written by Damantha Jasinghe"
+            f"\n\nBased on [Ezila](https://t.me/ezilaotherbot)."
+            f"\n\n{dispatcher.bot.first_name}'s source code was written by Sadew Jayasekara"
             f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
