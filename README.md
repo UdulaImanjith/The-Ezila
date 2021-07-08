@@ -33,3 +33,7 @@ Complete guide on deploying @ezilaotherbot's clone on Heroku.
 # ❤️ Support
 <a href="https://t.me/Ezila_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/Ezila_Updates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+# 😍 Special Credits
+
+  - [sadew jayasekara](https://github.com/sadew451): Dev
