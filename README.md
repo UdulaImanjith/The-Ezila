@@ -12,7 +12,7 @@
     <a href="https://github.com/sadew451"> <img src="https://img.shields.io/github/repo-size/sadew451?color=orange&logo=github&logoColor=green&style=for-the-badge" />
 
 
-> ⭐️ Thanks to everyone who starred Ezila, That is the greatest pleasure we have !
+ ⭐️ Thanks to everyone who starred Ezila, That is the greatest pleasure we have !
 
 ### Ezilaupdates
 ## Avaiilable on Telegram as [@EZILAinifinitybot](https://t.me/EZILAinifinitybot)
