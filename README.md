@@ -7,7 +7,8 @@
   <a href="https://github.com/sadew451/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-
+<p align="center"><a href="https://t.me/Ezila_Updates"><img src="https://telegra.ph/file/7bb512fd4c29eb943a13a.jpg" width="400"></a></p>
+<p align="center">
 
 
 
