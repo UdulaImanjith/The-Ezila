@@ -22,3 +22,10 @@ Complete guide on deploying @ezilaotherbot's clone on Heroku.
  # 😍 Special Credits
  
  - [sadew jayasekara](https://github.com/sadew451): Dev
+
+ 
+ ## Credits
+
+- [sadew](https://github.com/sadew451): Dev
+- [SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity)
+- [Damantha](https://github.com/Damantha126)
