@@ -10,11 +10,7 @@
 <p align="center">
     <a href="https://app.codacy.com/manual/sadew451/Ezila/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/sadew451"> <img src="https://img.shields.io/github/repo-size/sadew451?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/SDBOTsinifinity/commits/sadew451"> <img src="https://img.shields.io/github/last-commit/SDBOTsinifinity?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/SDBOTsinifinity/issues"> <img src="https://img.shields.io/github/issues/SDBOTsinifinity?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/SDBOTsinifinity/network/members"> <img src="https://img.shields.io/github/forks/SDBOTsinifinity?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 
 > ⭐️ Thanks to everyone who starred Ezila, That is the greatest pleasure we have !
 
