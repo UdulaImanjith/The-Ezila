@@ -64,7 +64,7 @@ from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hello there, I'm Barbie !
-I'm a Powerful group manager bot With Cool Modules. Made by ✘ 𝗨𝗗𝗨𝗟𝗔 ✘ 🇱🇰 (t.me/UdulaImanjith)
+I'm a Powerful group manager bot With Cool Modules. Made by ✘ 𝗨𝗗𝗨𝗟𝗔 ✘ 🇱🇰(t.me/UdulaImanjith)
 Hit /help to find my list of available commands
  
 """
@@ -104,7 +104,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  ✘ 𝗨𝗗𝗨𝗟𝗔 ✘ 🇱🇰 (t.me/UdulaImanjith)"""
+Support them  ✘ 𝗨𝗗𝗨𝗟𝗔 ✘ 🇱🇰(t.me/UdulaImanjith)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
