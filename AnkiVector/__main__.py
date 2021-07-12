@@ -63,7 +63,7 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Ezila
+Hello there, I'm Barbie !
 I'm a Powerful group manager bot With Cool Modules. Made by [𝙎𝙖𝙙𝙚𝙬 𝙅𝙨𝙠</σϝϝʅιɳҽ](t.me/darkridersslk)
 Hit /help to find my list of available commands
  
@@ -71,11 +71,11 @@ Hit /help to find my list of available commands
 
 buttons = [
     [
-        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/Ezila_Updates"),
-        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/Ezila_Support"),
+        InlineKeyboardButton(text="📢Updates Channel", url="https://t.me/UIBots_Official"),
+        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/UIBots_Support"),
     ],
     [
-        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/SDBOTs_inifinity"),
+        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/UIBots_Official"),
         
     ],
     [
@@ -83,17 +83,16 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Ezila to your group ➕", url="http://t.me/EZILAinifinitybot?startgroup=true"
+            text="➕ Add Ezila to your group ➕", url="http://t.me/TheBarbieBot?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = 'https://telegra.ph/file/05525c2d5b3909fbec092.jpg'
+ANKIVECTOR_IMG = 'https://telegra.ph/file/10dd6f26b891855c9e38b.jpg'
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/05525c2d5b3909fbec092.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/10dd6f26b891855c9e38b.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
-✪ /donate: You can support my creater using this command.
 ✪ /settings: 
    ◔ in PM: will send you your settings for all supported modules.
    ◔ in a Group: will redirect you to pm, with all that chat's settings.
@@ -105,7 +104,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [𝙎𝙖𝙙𝙚𝙬 𝙅𝙨𝙠</σϝϝʅιɳҽ](t.me/darkridersslk)"""
+Support them  ✘ 𝗨𝗗𝗨𝗟𝗔 ✘ 🇱🇰 (t.me/UdulaImanjith)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
