@@ -5,11 +5,11 @@
 <p align="center">
 > ⭐️ Thanks to everyone who starred Barbie !
 
-### BarbieSupport & Updates
+### Barbie Support & Updates
 ## Avaiilable on Telegram as [@TheBarbieBot](https://t.me/TheBarbieBot)
 
 # ❤️ Support
-<a href="https://t.me/UIBots_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/UIBots_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram"></a>
 
  # 😍 Special Credits
  
