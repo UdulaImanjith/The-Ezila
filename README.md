@@ -5,7 +5,7 @@
 <p align="center">
 > ⭐️ Thanks to everyone who starred Barbie !
 
-### Ezilaupdates
+### BarbieSupport & Updates
 ## Avaiilable on Telegram as [@TheBarbieBot](https://t.me/TheBarbieBot)
 
 # ❤️ Support
@@ -13,9 +13,9 @@
 
  # 😍 Special Credits
  
- - [Udula Imanjith](https://github.com/Udula Imanjith): Dev
+ - [Udula Imanjith](https://github.com/UdulaImanjith): Dev
 
  
  ## Credits
 
-- [Udula Imanjith](https://github.com/Udula Imanjith): Dev
+- [Udula Imanjith](https://github.com/UdulaImanjith): Dev
