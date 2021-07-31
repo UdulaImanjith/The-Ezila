@@ -64,32 +64,34 @@ from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hi My Dear Friend, I am Barbie !
-I'm a Powerful Group Manager Bot with Coolest Modules. My Master is [✘ 𝗨𝗗𝗨𝗟𝗔 ✘](t.me/UdulaImanjith)
+I'm a Powerful Group Manager Bot with Coolest Modules !
+My Developer is [✘ 𝙐𝘿𝙐𝙇𝘼 ✘ 🇱🇰](t.me/UdulaImanjith) !
+Help Him By Joining [The Bots Channel](https://t.me/UIBotz) !
 Just Hit /help for See My Commands !
  
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="👥 Support Group", url="https://t.me/UIBots_Support"),
+        InlineKeyboardButton(text="👥 Support Group 🤝", url="https://t.me/TeamUIBotz"),
     ],
     [
-        InlineKeyboardButton(text="📚Bots Channel", url="https://t.me/UIBots_Official"),
+        InlineKeyboardButton(text="📚 Bots Channel 🤖", url="https://t.me/UIBotz"),
         
     ],
     [
-        InlineKeyboardButton(text="❔ Help", callback_data="help_back"),
+        InlineKeyboardButton(text="✌ Developer 🙂", url="t.me/UdulaImanjith"),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Barbie to your group ➕", url="http://t.me/TheBarbieBot?startgroup=true"
+            text="➕ Add Me to your group ➕", url="http://t.me/TheBarbieBot?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = 'https://telegra.ph/file/10dd6f26b891855c9e38b.jpg'
+ANKIVECTOR_IMG = 'https://telegra.ph/file/4d21e2dd5dac6417d5e55.jpg'
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/10dd6f26b891855c9e38b.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/4d21e2dd5dac6417d5e55.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /settings: 
@@ -365,7 +367,7 @@ def AnkiVector_about_callback(update, context):
     if query.data == "aboutmanu_":
         query.message.edit_text(
             text=f"* Hi There  The name's {dispatcher.bot.first_name} \n\nAs  You I'm a next generational group management bot developed by Anki Vector Updates.* "
-            f"\n\n Join [UI Bots](https://t.me/UIBots_Official) To Keep Yourself Updated About {dispatcher.bot.first_name}"
+            f"\n\n Join [UI Bots](https://t.me/UIBotz) To Keep Yourself Updated About {dispatcher.bot.first_name}"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features"
             f"\n\nYou Can Know More About Me By Clicking The Below Buttons",
@@ -402,7 +404,7 @@ def AnkiVector_about_callback(update, context):
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
             f"\nIf You Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [UI Bots](https://t.me/UIBots_Official).\n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [UI Bots](https://t.me/UIBotz).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
