@@ -1,7 +1,7 @@
 {
       "name": "Barbie",
       "description": "A Cute & Smart Group Manager Bot",
-      "logo": "https://telegra.ph/file/10dd6f26b891855c9e38b.jpg",
+      "logo": "https://telegra.ph/file/4d21e2dd5dac6417d5e55.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -59,7 +59,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "UIBots_Support"
+         "value": "TeamUIBotz"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
