@@ -10,7 +10,8 @@
 
 # ❤️ Support
 <a href="https://t.me/TeamUIBotz"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram"></a>
-
+<a href="https://t.me/UIBotz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+ 
  # 😍 Special Credits
  
  - [Udula Imanjith](https://github.com/UdulaImanjith): Dev & Owner
