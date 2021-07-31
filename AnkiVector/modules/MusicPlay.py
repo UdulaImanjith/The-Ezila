@@ -59,7 +59,7 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 • /admincache: Updates admin info of your group. Try if bot isn't recognize admin
 • /userbotjoin: Invite @BarbieMusicBot Userbot to your chat 
  
-* 🔷Assisten🔷 *
+* 🔷Assistent🔷 *
 
 @BarbieMusicAssistant
 
